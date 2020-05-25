@@ -1,0 +1,28 @@
+.box1 {
+  position:absolute;
+  width:200px;
+  height:100px;
+  top:10px;
+  left:10px;
+  background-color:red;
+}
+.box2 {
+  position:absolute;
+  width:200px;
+  height:100px;
+  top:10px;
+  left:310px;
+  background-color:green;
+}
+.box3 {
+  position:absolute;
+  width:200px;
+  height:100px;
+  top:10px;
+  left:510px;
+  background-color:yellow;
+}
+
+
+
+
